@@ -1,7 +1,7 @@
-name: Codespaces Setup
+name: Setup Environment Variables
 
 on:
-  codespaces:
+  push:
     branches:
       - main
 
